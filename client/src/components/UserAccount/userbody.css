@@ -1,0 +1,22 @@
+aside .list-group-item
+{
+    background-color: #f7f3ef;
+    /* color: white; */
+}
+li a
+{
+    color: #f26522;
+    
+}
+li a:hover
+{
+    text-decoration-line: none;
+    color: black;
+}
+
+li.Head
+{
+    font-size: 21px;
+    color: white;
+    background-color:#f26522;
+}

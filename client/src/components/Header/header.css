@@ -1,0 +1,12 @@
+#header {
+    background-color: #f7f3ef;
+}
+
+nav.navbar {
+    padding: 0.3rem 1rem;
+}
+
+.logo {
+    filter: brightness(3%);
+    margin: 10px 30px;
+}

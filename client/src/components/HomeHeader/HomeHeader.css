@@ -1,0 +1,21 @@
+.home-header {
+    background-color: #f7f3ef;
+    background-image: url('../../images/cooking.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top right;
+    height: 80vh;
+    padding: 50px;
+}
+
+.hero-text {
+    margin: 5% 2%;
+}
+
+@media only screen and (max-width: 1000px) {
+    .home-header {
+        background-size: 60%;
+        height: 50vh;
+    }
+    
+}

@@ -1,0 +1,33 @@
+.menu-page {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 1fr auto;
+    grid-gap: 30px;
+}
+
+.search-form {
+    grid-area: 1/1/2/3;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+}
+
+.ctg-filter-crt {
+    grid-area: 2/1/2/2;
+}
+
+.menu-food-ctr {
+    grid-area: 2/2/3/3;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.categories-fltr {
+    background-color: #f7f3ef;
+}

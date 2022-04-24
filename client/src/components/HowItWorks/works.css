@@ -1,0 +1,12 @@
+.wrk-steps {
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.wrk-card-img {
+    width: 300px;
+    height: 200px;
+}

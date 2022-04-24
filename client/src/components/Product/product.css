@@ -1,0 +1,34 @@
+.food-details-ctr {
+    /* background-color: #f7f3ef; */
+}
+
+.detail-ctr {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: center;
+    gap: 30px;
+}
+
+.img-ctr, .info-ctr {
+    border-radius: 7px;
+}
+
+.food-img-dtl {
+    display: block;
+    border-radius: inherit;
+    width: 100%;
+    height: 100%;
+    box-shadow: 1px 1px 10px rgb(201, 201, 201);
+}
+
+.info-ctr {
+    background-color: #fff;
+    box-shadow: 1px 1px 10px rgb(201, 201, 201);
+}
+
+.add-to-cart {
+    background-color: rgb(157, 77, 231);
+    color: #fff;
+}

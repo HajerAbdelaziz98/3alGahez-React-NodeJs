@@ -1,0 +1,10 @@
+export const CREATE_ORDER = 'CREATE_ORDER';
+export const CREATE_REQUEST = 'CREATE_REQUEST';
+export const CREATE_SUCCESS = 'CREATE_SUCCESS';
+export const CREATE_FAIL = 'CREATE_FAIL';
+export const GET_ORDERS = 'GET_ORDERS';
+export const GET_ORDER = 'GET_ORDER';
+export const DELETE_ORDER = 'DELETE_ORDER';
+export const FETCH_REQUEST = "FETCH_REQUEST";
+export const FETCH_SUCCESS = 'FETCH_SUCCESS';
+export const FETCH_FAIL = 'FETCH_FAIL';

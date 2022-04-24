@@ -1,0 +1,54 @@
+.hero-slider {
+    width: 300px;
+    height: 100%;
+}
+
+.slider-card {
+    background-color: rgb(117, 76, 23);
+    margin: 20px;
+    padding: 20px !important;
+    border: 3px solid rgba(51, 2, 61, 0.822);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+
+.slick-dots li.slick-active button:before {
+    color: White !important;
+    font-weight: 900 !important;
+}
+
+.s1 {
+    background-image: url('../../images/kushari.jpg');
+}
+
+.s2 {
+    background-image: url('../../images/mahshi.jpg');
+}
+
+.s3 {
+    background-image: url('../../images/fool.jpg');
+}
+
+.s4 {
+    background-image: url('../../images/n1.jpg');
+}
+
+.slick-dots li button::before {
+    font-family: 'slick';
+    font-size: 19px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 20px;
+    content: '―';
+    text-align: center;
+    opacity: .25;
+    color: rgb(255, 255, 255);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 800;
+}

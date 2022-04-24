@@ -1,0 +1,15 @@
+
+.icontext {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px;
+  }
+  .icontext .icon {
+    position: relative;
+    flex-shrink: 0;
+  }
+  .icontext small,
+  .icontext .title {
+    display: block;
+  }
+
