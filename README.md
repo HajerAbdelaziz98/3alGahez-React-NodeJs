@@ -54,18 +54,30 @@ Usability.
 
 - Users& Roles:
  Super Admin.
+
  Admin(seller).
+
  Customer (buyer). 
 
+
 - Technologies used:
+
  CSS3 
+
  JavaScript
+
  Bootstrap5
+
  React JS
+
  Node JS 
+
  MongoDB
+
  Redux  
+
  Express 
+
  Ecma script 6
 
 
